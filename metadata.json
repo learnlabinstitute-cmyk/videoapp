@@ -1,0 +1,8 @@
+{
+  "name": "Remix Remix 3D Birthday Video Animator",
+  "description": "Create 3D animated motion birthday videos and invitations with child photo, custom text, fairytale train animations, and high-quality exports for social media.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
